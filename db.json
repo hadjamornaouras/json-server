@@ -1,34 +1,254 @@
 {
   "products": [
-    { "id": 1, "title": "product 1", "price": "100", "img": "image1.jpg" },
-    { "id": 2, "title": "product 2", "price": "150", "img": "image2.jpg" },
-    { "id": 3, "title": "product 3", "price": "50", "img": "image3.jpg" },
-    { "id": 4, "title": "product 4", "price": "250", "img": "image4.jpg" },
-    { "id": 5, "title": "product 5", "price": "75", "img": "image5.jpg" },
-    { "id": 6, "title": "product 6", "price": "300", "img": "image6.jpg" },
-    { "id": 7, "title": "product 7", "price": "45", "img": "image7.jpg" },
-    { "id": 8, "title": "product 8", "price": "155", "img": "image8.jpg" },
-    { "id": 9, "title": "product 9", "price": "150", "img": "image9.jpg" },
-    { "id": 10, "title": "product 10", "price": "135", "img": "image10.jpg" },
-    { "id": 11, "title": "product 11", "price": "157", "img": "image11.jpg" },
-    { "id": 12, "title": "product 12", "price": "100", "img": "image12.jpg" },
-    { "id": 13, "title": "product 13", "price": "185", "img": "image13.jpg" },
-    { "id": 14, "title": "product 14", "price": "160", "img": "image14.jpg" },
-    { "id": 15, "title": "product 15", "price": "170", "img": "image15.jpg" },
-    { "id": 16, "title": "product 16", "price": "159", "img": "image16.jpg" },
-    { "id": 17, "title": "product 17", "price": "199", "img": "image17.jpg" },
-    { "id": 18, "title": "product 18", "price": "190", "img": "image18.jpg" },
-    { "id": 19, "title": "product 19", "price": "75", "img": "image19.png" },
-    { "id": 20, "title": "product 20", "price": "350", "img": "image20.jpg" },
-    { "id": 21, "title": "product 21", "price": "270", "img": "image21.jpg" },
-    { "id": 22, "title": "product 22", "price": "40", "img": "image22.jpg" },
-    { "id": 23, "title": "product 23", "price": "90", "img": "image23.jpg" },
-    { "id": 24, "title": "product 24", "price": "50", "img": "image24.jpg" },
-    { "id": 25, "title": "product 25", "price": "550", "img": "image25.jpg" },
-    { "id": 26, "title": "product 26", "price": "200", "img": "image26.jpg" },
-    { "id": 27, "title": "product 27", "price": "450", "img": "image27.jpg" },
-    { "id": 28, "title": "product 28", "price": "70", "img": "image28.jpg" },
-    { "id": 29, "title": "product 29", "price": "60", "img": "image29.jpg" },
-    { "id": 30, "title": "product 30", "price": "150", "img": "image30.png" }
+    {
+      "id": 1,
+      "price": 345.92,
+      "img": "image1.jpg",
+      "title": "product 1",
+      "rating": 2.5,
+      "brand": "brand5"
+    },
+    {
+      "id": 2,
+      "price": 334.51,
+      "img": "image2.jpg",
+      "title": "product 2",
+      "rating": 4.2,
+      "brand": "brand2"
+    },
+    {
+      "id": 3,
+      "price": 302.82,
+      "img": "image3.jpg",
+      "title": "product 3",
+      "rating": 2,
+      "brand": "brand4"
+    },
+    {
+      "id": 4,
+      "price": 260.92,
+      "img": "image4.jpg",
+      "title": "product 4",
+      "rating": 9,
+      "brand": "brand1"
+    },
+    {
+      "id": 5,
+      "price": 297.37,
+      "img": "image5.jpg",
+      "title": "product 5",
+      "rating": 2.2,
+      "brand": "brand2"
+    },
+    {
+      "id": 6,
+      "price": 327.19,
+      "img": "image6.jpg",
+      "title": "product 6",
+      "rating": 2,
+      "brand": "brand3"
+    },
+    {
+      "id": 7,
+      "price": 325.13,
+      "img": "image7.jpg",
+      "title": "product 7",
+      "rating": 0.4,
+      "brand": "brand1"
+    },
+    {
+      "id": 8,
+      "price": 241.48,
+      "img": "image8.jpg",
+      "title": "product 8",
+      "rating": 3.8,
+      "brand": "brand3"
+    },
+    {
+      "id": 9,
+      "price": 332.56,
+      "img": "image9.jpg",
+      "title": "product 9",
+      "rating": 9.6,
+      "brand": "brand2"
+    },
+    {
+      "id": 10,
+      "price": 277.78,
+      "img": "image10.jpg",
+      "title": "product 10",
+      "rating": 2.9,
+      "brand": "brand2"
+    },
+    {
+      "id": 11,
+      "price": 294.19,
+      "img": "image11.jpg",
+      "title": "product 11",
+      "rating": 4,
+      "brand": "brand3"
+    },
+    {
+      "id": 12,
+      "price": 230.97,
+      "img": "image12.jpg",
+      "title": "product 12",
+      "rating": 4.3,
+      "brand": "brand3"
+    }
+  ],
+  "product2" : [
+    {
+      "id": 13,
+      "price": 238.12,
+      "img": "image13.jpg",
+      "title": "product 13",
+      "rating": 4.5,
+      "brand": "brand5"
+    },
+    {
+      "id": 14,
+      "price": 169.1,
+      "img": "image14.jpg",
+      "title": "product 14",
+      "rating": 3.6,
+      "brand": "brand2"
+    },
+    {
+      "id": 15,
+      "price": 117.76,
+      "img": "image15.jpg",
+      "title": "product 15",
+      "rating": 4.8,
+      "brand": "brand2"
+    },
+    {
+      "id": 16,
+      "price": 164.52,
+      "img": "image16.jpg",
+      "title": "product 16",
+      "rating": 7.7,
+      "brand": "brand2"
+    },
+    {
+      "id": 17,
+      "price": 131.64,
+      "img": "image17.jpg",
+      "title": "product 17",
+      "rating": 7.2,
+      "brand": "brand4"
+    },
+    {
+      "id": 18,
+      "price": 177.51,
+      "img": "image18.jpg",
+      "title": "product 18",
+      "rating": 9.5,
+      "brand": "brand4"
+    },
+    {
+      "id": 19,
+      "price": 132.91,
+      "img": "image19.jpg",
+      "title": "product 19",
+      "rating": 4.4,
+      "brand": "brand2"
+    },
+    {
+      "id": 20,
+      "price": 238.08,
+      "img": "image20.jpg",
+      "title": "product 20",
+      "rating": 9.6,
+      "brand": "brand2"
+    },
+    {
+      "id": 21,
+      "price": 233.93,
+      "img": "image21.jpg",
+      "title": "product 21",
+      "rating": 8.9,
+      "brand": "brand1"
+    },
+    {
+      "id": 22,
+      "price": 266.68,
+      "img": "image22.jpg",
+      "title": "product 22",
+      "rating": 8.3,
+      "brand": "brand2"
+    },
+    {
+      "id": 23,
+      "price": 241.57,
+      "img": "image23.jpg",
+      "title": "product 23",
+      "rating": 2.6,
+      "brand": "brand1"
+    },
+    {
+      "id": 24,
+      "price": 153.07,
+      "img": "image24.jpg",
+      "title": "product 24",
+      "rating": 2.6,
+      "brand": "brand5"
+    },
+    {
+      "id": 25,
+      "price": 318.91,
+      "img": "image25.jpg",
+      "title": "product 25",
+      "rating": 0.7,
+      "brand": "brand2"
+    },
+    {
+      "id": 26,
+      "price": 138.51,
+      "img": "image26.jpg",
+      "title": "product 26",
+      "rating": 8.7,
+      "brand": "brand4"
+    },
+    {
+      "id": 27,
+      "price": 333.76,
+      "img": "image27.jpg",
+      "title": "product 27",
+      "rating": 2.8,
+      "brand": "brand4"
+    },
+    {
+      "id": 28,
+      "price": 299.25,
+      "img": "image28.jpg",
+      "title": "product 28",
+      "rating": 1.8,
+      "brand": "brand5"
+    },
+    {
+      "id": 29,
+      "price": 104.31,
+      "img": "image29.jpg",
+      "title": "product 29",
+      "rating": 7.4,
+      "brand": "brand1"
+    },
+    {
+      "id": 30,
+      "price": 396.33,
+      "img": "image30.jpg",
+      "title": "product 30",
+      "rating": 4.6,
+      "brand": "brand2"
+    },
+    {
+      "id": 31,
+      "price": 362.82,
+      "img": "image31.jpg",
+      "title": "product 31",
+      "rating": 4.8,
+      "brand": "brand3"
+    }
   ]
 }
