@@ -6,7 +6,8 @@
       "img": "image1.jpg",
       "title": "product 1",
       "rating": 2.5,
-      "brand": "brand5"
+      "brand": "brand5",
+      "category": "furniture"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "img": "image2.jpg",
       "title": "product 2",
       "rating": 4.2,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "furniture"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "img": "image3.jpg",
       "title": "product 3",
       "rating": 2,
-      "brand": "brand4"
+      "brand": "brand4",
+      "category": "furniture"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "img": "image4.jpg",
       "title": "product 4",
       "rating": 9,
-      "brand": "brand1"
+      "brand": "brand1",
+      "category": "decor"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "img": "image5.jpg",
       "title": "product 5",
       "rating": 2.2,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "furniture"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "img": "image6.jpg",
       "title": "product 6",
       "rating": 2,
-      "brand": "brand3"
+      "brand": "brand3",
+      "category": "decor"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "img": "image7.jpg",
       "title": "product 7",
       "rating": 0.4,
-      "brand": "brand1"
+      "brand": "brand1",
+      "category": "kitchen"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "img": "image8.jpg",
       "title": "product 8",
       "rating": 3.8,
-      "brand": "brand3"
+      "brand": "brand3",
+      "category": "furniture"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "img": "image9.jpg",
       "title": "product 9",
       "rating": 9.6,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "furniture"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "img": "image10.jpg",
       "title": "product 10",
       "rating": 2.9,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "decor"
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "img": "image11.jpg",
       "title": "product 11",
       "rating": 4,
-      "brand": "brand3"
+      "brand": "brand3",
+      "category": "accessoires"
     },
     {
       "id": 12,
@@ -94,17 +105,17 @@
       "img": "image12.jpg",
       "title": "product 12",
       "rating": 4.3,
-      "brand": "brand3"
-    }
-  ],
-  "product2" : [
+      "brand": "brand3",
+      "category": "kitchen"
+    },
     {
       "id": 13,
       "price": 238.12,
       "img": "image13.jpg",
       "title": "product 13",
       "rating": 4.5,
-      "brand": "brand5"
+      "brand": "brand5",
+      "category": "kitchen"
     },
     {
       "id": 14,
@@ -112,7 +123,8 @@
       "img": "image14.jpg",
       "title": "product 14",
       "rating": 3.6,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "decor"
     },
     {
       "id": 15,
@@ -120,7 +132,8 @@
       "img": "image15.jpg",
       "title": "product 15",
       "rating": 4.8,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "accessoires"
     },
     {
       "id": 16,
@@ -128,7 +141,8 @@
       "img": "image16.jpg",
       "title": "product 16",
       "rating": 7.7,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "decor"
     },
     {
       "id": 17,
@@ -136,7 +150,8 @@
       "img": "image17.jpg",
       "title": "product 17",
       "rating": 7.2,
-      "brand": "brand4"
+      "brand": "brand4",
+      "category": "furniture"
     },
     {
       "id": 18,
@@ -144,7 +159,8 @@
       "img": "image18.jpg",
       "title": "product 18",
       "rating": 9.5,
-      "brand": "brand4"
+      "brand": "brand4",
+      "category": "accessoires"
     },
     {
       "id": 19,
@@ -160,7 +176,8 @@
       "img": "image20.jpg",
       "title": "product 20",
       "rating": 9.6,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "accessoires"
     },
     {
       "id": 21,
@@ -168,7 +185,8 @@
       "img": "image21.jpg",
       "title": "product 21",
       "rating": 8.9,
-      "brand": "brand1"
+      "brand": "brand1",
+      "category": "furniture"
     },
     {
       "id": 22,
@@ -176,7 +194,8 @@
       "img": "image22.jpg",
       "title": "product 22",
       "rating": 8.3,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "furniture"
     },
     {
       "id": 23,
@@ -184,7 +203,8 @@
       "img": "image23.jpg",
       "title": "product 23",
       "rating": 2.6,
-      "brand": "brand1"
+      "brand": "brand1",
+      "category": "furniture"
     },
     {
       "id": 24,
@@ -192,7 +212,8 @@
       "img": "image24.jpg",
       "title": "product 24",
       "rating": 2.6,
-      "brand": "brand5"
+      "brand": "brand5",
+      "category": "decor"
     },
     {
       "id": 25,
@@ -200,7 +221,8 @@
       "img": "image25.jpg",
       "title": "product 25",
       "rating": 0.7,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "kitchen"
     },
     {
       "id": 26,
@@ -208,7 +230,8 @@
       "img": "image26.jpg",
       "title": "product 26",
       "rating": 8.7,
-      "brand": "brand4"
+      "brand": "brand4",
+      "category": "decor"
     },
     {
       "id": 27,
@@ -216,7 +239,8 @@
       "img": "image27.jpg",
       "title": "product 27",
       "rating": 2.8,
-      "brand": "brand4"
+      "brand": "brand4",
+      "category": "furniture"
     },
     {
       "id": 28,
@@ -224,7 +248,8 @@
       "img": "image28.jpg",
       "title": "product 28",
       "rating": 1.8,
-      "brand": "brand5"
+      "brand": "brand5",
+      "category": "decor"
     },
     {
       "id": 29,
@@ -232,7 +257,8 @@
       "img": "image29.jpg",
       "title": "product 29",
       "rating": 7.4,
-      "brand": "brand1"
+      "brand": "brand1",
+      "category": "furniture"
     },
     {
       "id": 30,
@@ -240,7 +266,8 @@
       "img": "image30.jpg",
       "title": "product 30",
       "rating": 4.6,
-      "brand": "brand2"
+      "brand": "brand2",
+      "category": "kitchen"
     },
     {
       "id": 31,
@@ -248,7 +275,8 @@
       "img": "image31.jpg",
       "title": "product 31",
       "rating": 4.8,
-      "brand": "brand3"
+      "brand": "brand3",
+      "category": "accessoires"
     }
   ]
 }
