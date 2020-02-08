@@ -268,15 +268,6 @@
       "rating": 4.6,
       "brand": "brand2",
       "category": "kitchen"
-    },
-    {
-      "id": 31,
-      "price": 362.82,
-      "img": "image31.jpg",
-      "title": "product 31",
-      "rating": 4.8,
-      "brand": "brand3",
-      "category": "accessoires"
     }
   ]
 }
